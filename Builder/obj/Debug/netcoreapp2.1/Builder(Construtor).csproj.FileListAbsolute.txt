@@ -1,0 +1,10 @@
+C:\Users\daniel.oliveira\source\repos\ConsoleApp1\Builder\bin\Debug\netcoreapp2.1\Builder(Construtor).deps.json
+C:\Users\daniel.oliveira\source\repos\ConsoleApp1\Builder\bin\Debug\netcoreapp2.1\Builder(Construtor).runtimeconfig.json
+C:\Users\daniel.oliveira\source\repos\ConsoleApp1\Builder\bin\Debug\netcoreapp2.1\Builder(Construtor).runtimeconfig.dev.json
+C:\Users\daniel.oliveira\source\repos\ConsoleApp1\Builder\bin\Debug\netcoreapp2.1\Builder(Construtor).dll
+C:\Users\daniel.oliveira\source\repos\ConsoleApp1\Builder\bin\Debug\netcoreapp2.1\Builder(Construtor).pdb
+C:\Users\daniel.oliveira\source\repos\ConsoleApp1\Builder\obj\Debug\netcoreapp2.1\Builder(Construtor).csproj.CoreCompileInputs.cache
+C:\Users\daniel.oliveira\source\repos\ConsoleApp1\Builder\obj\Debug\netcoreapp2.1\Builder(Construtor).AssemblyInfoInputs.cache
+C:\Users\daniel.oliveira\source\repos\ConsoleApp1\Builder\obj\Debug\netcoreapp2.1\Builder(Construtor).AssemblyInfo.cs
+C:\Users\daniel.oliveira\source\repos\ConsoleApp1\Builder\obj\Debug\netcoreapp2.1\Builder(Construtor).dll
+C:\Users\daniel.oliveira\source\repos\ConsoleApp1\Builder\obj\Debug\netcoreapp2.1\Builder(Construtor).pdb
